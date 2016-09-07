@@ -1,0 +1,42 @@
+ 
+
+C:\Windows\system32>D:
+
+D:\>cd codigo
+
+D:\codigo>cd python
+
+D:\codigo\python>git clone https://github.com/fgutiers1/homework.git
+Cloning into 'homework'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+
+D:\codigo\python>cd homework
+
+D:\codigo\python\homework>mkdir s1
+
+D:\codigo\python\homework>cd s1
+
+D:\codigo\python\homework\s1>mkdir s3
+
+D:\codigo\python\homework\s1>cd s3
+
+D:\codigo\python\homework\s1\s3>notepad conf.txt
+
+D:\codigo\python\homework\s1\s3>cd ..
+
+D:\codigo\python\homework\s1>mkdir s2
+
+D:\codigo\python\homework\s1>cd s2
+
+D:\codigo\python\homework\s1\s2>notepad test_chunk1.txt
+
+D:\codigo\python\homework\s1\s2>mkdir Advanced
+
+D:\codigo\python\homework\s1\s2>cd Advanced
+
+D:\codigo\python\homework\s1\s2\Advanced>notepad text_chunk2.txt
+
+D:\codigo\python\homework\s1\s2\Advanced>
